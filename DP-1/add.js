@@ -1,5 +1,4 @@
 export default function add(a, b) {
-  const result = a + b
-  return result
+  return a + b
 }
 // add 주석
